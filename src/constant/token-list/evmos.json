@@ -1,0 +1,242 @@
+{
+  "result": [
+    {
+      "name": "Evmos",
+      "symbol": "EVMOS",
+      "decimals": 18,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+    },
+    {
+      "address": "0x3f75ceabcdfed1aca03257dc6bdc0408e2b4b026",
+      "decimals": 18,
+      "symbol": "DIFF",
+      "name": "Diffusion",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x3f75ceabcdfed1aca03257dc6bdc0408e2b4b026.png"
+    },
+    {
+      "address": "0x75aee82a16bd1fb98b11879af93ab7ce055f66da",
+      "decimals": 18,
+      "symbol": "xDIFF",
+      "name": "xDiffusion",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x75aee82a16bd1fb98b11879af93ab7ce055f66da.png"
+    },
+    {
+      "address": "0xfa3c22c069b9556a4b2f7ece1ee3b467909f4864",
+      "decimals": 6,
+      "symbol": "OSMO",
+      "name": "Osmosis",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xfa3c22c069b9556a4b2f7ece1ee3b467909f4864.png"
+    },
+    {
+      "name": "Wrapped Evmos",
+      "symbol": "WEVMOS",
+      "decimals": 18,
+      "address": "0xd4949664cd82660aae99bedc034a0dea8a0bd517",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xd4949664cd82660aae99bedc034a0dea8a0bd517.png"
+    },
+    {
+      "address": "0xc5e00d3b04563950941f7137b5afa3a534f0d6d6",
+      "decimals": 6,
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xc5e00d3b04563950941f7137b5afa3a534f0d6d6.png"
+    },
+    {
+      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+      "decimals": 6,
+      "symbol": "ibc GRAV",
+      "name": "Graviton channel-8",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd.png"
+    },
+    {
+      "address": "0xc03345448969dd8c00e9e4a85d2d9722d093af8e",
+      "decimals": 18,
+      "symbol": "ibc G-WETH",
+      "name": "Wrapped Ether channel-8",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xc03345448969dd8c00e9e4a85d2d9722d093af8e.png"
+    },
+    {
+      "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
+      "decimals": 6,
+      "symbol": "ibc G-USDC",
+      "name": "USD Coin channel-8",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687.png"
+    },
+    {
+      "address": "0x63743acf2c7cfee65a5e356a4c4a005b586fc7aa",
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x63743acf2c7cfee65a5e356a4c4a005b586fc7aa.png"
+    },
+    {
+      "address": "0x5842c5532b61acf3227679a8b1bd0242a41752f2",
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x5842c5532b61acf3227679a8b1bd0242a41752f2.png"
+    },
+    {
+      "address": "0xf80699dc594e00ae7ba200c7533a07c1604a106d",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xf80699dc594e00ae7ba200c7533a07c1604a106d.png"
+    },
+    {
+      "address": "0x51e44ffad5c2b122c8b635671fcc8139dc636e82",
+      "decimals": 6,
+      "symbol": "madUSDC",
+      "name": "USD Coin",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x51e44ffad5c2b122c8b635671fcc8139dc636e82.png"
+    },
+    {
+      "address": "0x7ff4a56b32ee13d7d4d405887e0ea37d61ed919e",
+      "decimals": 6,
+      "symbol": "madUSDT",
+      "name": "Tether USD",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x7ff4a56b32ee13d7d4d405887e0ea37d61ed919e.png"
+    },
+    {
+      "address": "0x28ec4b29657959f4a5052b41079fe32919ec3bd3",
+      "decimals": 18,
+      "symbol": "FRAX",
+      "name": "Frax",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x28ec4b29657959f4a5052b41079fe32919ec3bd3.png"
+    },
+    {
+      "address": "0xd0ec216a38f199b0229ae668a96c3cd9f9f118a6",
+      "decimals": 18,
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xd0ec216a38f199b0229ae668a96c3cd9f9f118a6.png"
+    },
+    {
+      "address": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8",
+      "decimals": 18,
+      "symbol": "FRAX",
+      "name": "Frax",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8.png"
+    },
+    {
+      "address": "0xd8176865dd0d672c6ab4a427572f80a72b4b4a9c",
+      "decimals": 18,
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xd8176865dd0d672c6ab4a427572f80a72b4b4a9c.png"
+    },
+    {
+      "address": "0x940daaba3f713abfabd79cdd991466fe698cbe54",
+      "decimals": 18,
+      "symbol": "ceDAI",
+      "name": "Dai Stablecoin (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x940daaba3f713abfabd79cdd991466fe698cbe54.png"
+    },
+    {
+      "address": "0x153a59d48aceabedbdcf7a13f67ae52b434b810b",
+      "decimals": 18,
+      "symbol": "ceWETH",
+      "name": "Wrapped Ether (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x153a59d48aceabedbdcf7a13f67ae52b434b810b.png"
+    },
+    {
+      "address": "0xb98e169c37ce30dd47fdad1f9726fb832191e60b",
+      "decimals": 8,
+      "symbol": "ceWBTC",
+      "name": "Wrapped BTC (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xb98e169c37ce30dd47fdad1f9726fb832191e60b.png"
+    },
+    {
+      "address": "0xe46910336479f254723710d57e7b683f3315b22b",
+      "decimals": 6,
+      "symbol": "ceUSDC",
+      "name": "USD Coin (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xe46910336479f254723710d57e7b683f3315b22b.png"
+    },
+    {
+      "address": "0xb72a7567847aba28a2819b855d7fe679d4f59846",
+      "decimals": 6,
+      "symbol": "ceUSDT",
+      "name": "Tether USD (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xb72a7567847aba28a2819b855d7fe679d4f59846.png"
+    },
+    {
+      "address": "0x516e6d96896aea92ce5e78b0348fd997f13802ad",
+      "decimals": 18,
+      "symbol": "ceBUSD",
+      "name": "Binance USD (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x516e6d96896aea92ce5e78b0348fd997f13802ad.png"
+    },
+    {
+      "address": "0x75364d4f779d0bd0facd9a218c67f87dd9aff3b4",
+      "decimals": 18,
+      "symbol": "ceBNB",
+      "name": "Binance Coin (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x75364d4f779d0bd0facd9a218c67f87dd9aff3b4.png"
+    },
+    {
+      "address": "0x8006320739fc281da67ee62eb9b4ef8add5c903a",
+      "decimals": 18,
+      "symbol": "ceAVAX",
+      "name": "Avalanche (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x8006320739fc281da67ee62eb9b4ef8add5c903a.png"
+    },
+    {
+      "address": "0x729416b1f442f204989f1c9f0d58321f878808ed",
+      "decimals": 18,
+      "symbol": "ceFTM",
+      "name": "Fantom (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x729416b1f442f204989f1c9f0d58321f878808ed.png"
+    },
+    {
+      "address": "0x48421ff1c6b93988138130865c4b7cce10358271",
+      "decimals": 18,
+      "symbol": "ceAURORA",
+      "name": "Aurora (Celer)",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x48421ff1c6b93988138130865c4b7cce10358271.png"
+    },
+    {
+      "address": "0xfe6998c5c22936cca749b14fcf5f190398cfa8f8",
+      "decimals": 18,
+      "symbol": "CELR",
+      "name": "Celer Network",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xfe6998c5c22936cca749b14fcf5f190398cfa8f8.png"
+    },
+    {
+      "address": "0xbbd37bf85f7474b5bde689695674fab1888565ad",
+      "decimals": 18,
+      "symbol": "OAV",
+      "name": "OAV",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0xbbd37bf85f7474b5bde689695674fab1888565ad.png"
+    },
+    {
+      "address": "0x181c262b973b22c307c646a67f64b76410d19b6b",
+      "decimals": 18,
+      "symbol": "EMO",
+      "name": "EvmoSwap Token",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x181c262b973b22c307c646a67f64b76410d19b6b.png"
+    },
+    {
+      "address": "0x8f61f40615b545693dc7ea6a6836146acd8e42e9",
+      "decimals": 18,
+      "symbol": "EVTOMB",
+      "name": "evtomb",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x8f61f40615b545693dc7ea6a6836146acd8e42e9.png"
+    },
+    {
+      "address": "0x6957b60244954be36bbcf05ec17f0fe47a228aa9",
+      "decimals": 18,
+      "symbol": "EVSHARE",
+      "name": "EVSHARE",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x6957b60244954be36bbcf05ec17f0fe47a228aa9.png"
+    },
+    {
+      "address": "0x0a88f465ea5079c39d88ea796a018604e2c00d56",
+      "decimals": 18,
+      "symbol": "GRDN",
+      "name": "GUARDIAN",
+      "logoURI": "https://static.eisenfinance.com/tokens/evmos/0x0a88f465ea5079c39d88ea796a018604e2c00d56.png"
+    }
+  ]
+}
